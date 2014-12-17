@@ -64,5 +64,14 @@
 	<classpathentry kind="lib" path="lib/xmlenc-0.52.jar"/>
 	<classpathentry kind="lib" path="lib/xz-1.0.jar"/>
 	<classpathentry kind="lib" path="lib/zookeeper-3.4.5.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-mapreduce-client-app-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-mapreduce-client-common-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-mapreduce-client-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-mapreduce-client-jobclient-2.2.0-tests.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-mapreduce-client-jobclient-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-mapreduce-client-hs-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-mapreduce-client-shuffle-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-mapreduce-examples-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-mapreduce-client-hs-plugins-2.2.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
